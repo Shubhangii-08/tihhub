@@ -1,5 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 
 function VisionMision() {
   const scientificHorizontals = [
@@ -113,11 +114,12 @@ function VisionMision() {
                       {item.text}
                     </h3>
                     <p className="text-gray-600 text-base mb-4">{item.description}</p>
-                    <div className="rounded-lg overflow-hidden bg-gray-100 mb-4">
-                      <img 
-                        src={item.image} 
-                        alt={item.text} 
-                        className="w-full aspect-video object-cover transform group-hover:scale-105 transition-transform duration-300" 
+                    <div className="relative rounded-lg overflow-hidden bg-gray-100 mb-4 aspect-video">
+                      <Image
+                        src={item.image}
+                        alt={item.text}
+                        fill
+                        className="object-cover transform group-hover:scale-105 transition-transform duration-300"
                       />
                     </div>
                     <Link
