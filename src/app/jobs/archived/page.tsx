@@ -200,17 +200,10 @@ const archivedJobs: ArchivedJob[] = [
   //     adv: "/pdf/Archived_jobs_advertisement/AdSenior_Accounts_Officer_3.pdf",
   //   },
   // },
-  {
-    ref: "•",
-    vacancy: "Application for the post of Research Associate",
-    project:
-      "AI based risk stratification referral models, using eye images in a public health setting",
-    status: "Closed",
-    lastDate: "Closed",
-    document: {
-      adv: "/pdf/Archived_jobs_advertisement/adv_Project_Recruitment_AI_Based.pdf",
-    },
-  },
+
+  
+
+
   {
     ref: "•",
     vacancy: "Application for the post of Engineer",
@@ -294,7 +287,7 @@ const archivedJobs: ArchivedJob[] = [
     status: "Closed",
     lastDate: "4th January 2024 20th January 2024",
     document: {
-      adv: "/pdf/Archived_jobs_advertisement/Adv_Web_admin.pdf",
+      adv: "/pdf/Archived_jobs_advertisement/Adv_WEB_ADMINISTRATOR.pdf",
      
     },
   },
@@ -416,7 +409,7 @@ const archivedJobs: ArchivedJob[] = [
     lastDate:
       "Applications will be accepted until the position is filled",
     document: {
-      adv: "/pdf/Archived_jobs_advertisement/Ad_senior_account_officer.pdf",
+      adv: "/pdf/Archived_jobs_advertisement/Adv_AccountsOfficer.pdf",
     },
   },
   // {
@@ -436,7 +429,7 @@ const archivedJobs: ArchivedJob[] = [
     lastDate:
       "Applications will be accepted until the position is filled.",
     document: {
-      adv: "/pdf/Archived_jobs_advertisement/Ad_senior_account_officer.pdf",
+      adv: "/pdf/Archived_jobs_advertisement/Techno_Manager_advertisement.pdf",
     },
   },
   {
@@ -446,7 +439,7 @@ const archivedJobs: ArchivedJob[] = [
     lastDate:
       "August 17th, 2023 Applications will be accepted until the position is filled",
     document: {
-      adv: "/pdf/Archived_jobs_advertisement/Ad_senior_account_officer.pdf",
+      adv: "/pdf/Archived_jobs_advertisement/adv_ProcurementOfficer.pdf",
     },
   },
   {
@@ -457,7 +450,7 @@ const archivedJobs: ArchivedJob[] = [
     status: "Closed",
     lastDate: "8 September 2023",
     document: {
-      adv: "/pdf/Archived_jobs_advertisement/Ad_senior_account_officer.pdf",
+      adv: "/pdf/Archived_jobs_advertisement/Optometrist_ads.pdf",
     },
   },
   {
@@ -468,20 +461,20 @@ const archivedJobs: ArchivedJob[] = [
     status: "Closed",
     lastDate: "8 September 2023",
     document: {
-      adv: "/pdf/Archived_jobs_advertisement/Ad_senior_account_officer.pdf",
+      adv: "/pdf/Archived_jobs_advertisement/Adv_Field_Investigator.pdf",
     },
   },
-  {
-    ref: "•",
-    vacancy: "Application for the post of Research Associate",
-    project:
-      "AI based risk stratification referral models, using eye images in a public health setting",
-    status: "Closed",
-    lastDate: "30-June-2023",
-    document: {
-      adv: "/pdf/Archived_jobs_advertisement/Ad_senior_account_officer.pdf",
-    },
-  },
+  // {
+  //   ref: "•",
+  //   vacancy: "Application for the post of Research Associate",
+  //   project:
+  //     "AI based risk stratification referral models, using eye images in a public health setting",
+  //   status: "Closed",
+  //   lastDate: "30-June-2023",
+  //   document: {
+  //     adv: "/pdf/Archived_jobs_advertisement/Project_Recruitment_AI_Based.pdf",
+  //   },
+  // },
   
   {
     ref: "•",
@@ -491,7 +484,7 @@ const archivedJobs: ArchivedJob[] = [
     status: "Closed",
     lastDate: "28-April-2023",
     document: {
-      adv: "/pdf/Archived_jobs_advertisement/adv_youngp.pdf",
+      adv: "/pdf/Archived_jobs_advertisement/young_proff-2.pdf",
     },
   },
 
@@ -503,7 +496,7 @@ const archivedJobs: ArchivedJob[] = [
     status: "Closed",
     lastDate: "March 10th, 2023",
     document: {
-      adv: "/pdf/Archived_jobs_advertisement/Ad_senior_account_officer.pdf",
+      adv: "/pdf/Archived_jobs_advertisement/RA_CoronaryArteryDisease.pdf",
     },
   },
 
@@ -513,7 +506,7 @@ const archivedJobs: ArchivedJob[] = [
     status: "Closed",
     lastDate: "February 17th, 2023",
     document: {
-      adv: "/pdf/Archived_jobs_advertisement/Ad_senior_account_officer.pdf",
+      adv: "/pdf/Archived_jobs_advertisement/EAOutreach.pdf",
     },
   },
   {
@@ -522,7 +515,7 @@ const archivedJobs: ArchivedJob[] = [
     status: "Closed",
     lastDate: "February 17th, 2023",
     document: {
-      adv: "/pdf/Archived_jobs_advertisement/Ad_senior_account_officer.pdf",
+      adv: "/pdf/Archived_jobs_advertisement/EAadmin_ADV.pdf",
     },
   },
   {
@@ -533,20 +526,20 @@ const archivedJobs: ArchivedJob[] = [
     status: "Closed",
     lastDate: "February 10th, 2023",
     document: {
-      adv: "/pdf/Archived_jobs_advertisement/Ad_senior_account_officer.pdf",
+      adv: "/pdf/Archived_jobs_advertisement/JRF_haptic.pdf",
     },
   },
-  {
-    ref: "•",
-    vacancy: "Application for the post of Field Optometrist",
-    project:
-      "AI based risk stratification referral models, using eye images in a public health setting",
-    status: "Closed",
-    lastDate: "-",
-    document: {
-      adv: "/pdf/Archived_jobs_advertisement/Ad_senior_account_officer.pdf",
-    },
-  },
+  // {
+  //   ref: "•",
+  //   vacancy: "Application for the post of Field Optometrist",
+  //   project:
+  //     "AI based risk stratification referral models, using eye images in a public health setting",
+  //   status: "Closed",
+  //   lastDate: "-",
+  //   document: {
+  //     adv: "/pdf/Archived_jobs_advertisement/Ad_senior_account_officer.pdf",
+  //   },
+  // },
   {
     ref: "•",
     vacancy: "Application for the post of Research Associate",
@@ -555,7 +548,7 @@ const archivedJobs: ArchivedJob[] = [
     status: "Closed",
     lastDate: "-",
     document: {
-      adv: "/pdf/Archived_jobs_advertisement/Ad_senior_account_officer.pdf",
+      adv: "/pdf/Archived_jobs_advertisement/adv_Project_Recruitment_AI_Based.pdf",
     },
   },
  
@@ -568,7 +561,7 @@ const archivedJobs: ArchivedJob[] = [
     status: "Closed",
     lastDate: "-",
     document: {
-      adv: "/pdf/Archived_jobs_advertisement/Ad_senior_account_officer.pdf",
+      adv: "/pdf/Archived_jobs_advertisement/Research_Nurse _Follow up.pdf",
     }, 
   },
 
@@ -580,7 +573,7 @@ const archivedJobs: ArchivedJob[] = [
     status: "Closed",
     lastDate: "10 September 2022",
     document: {
-      adv: "/pdf/Archived_jobs_advertisement/Ad_senior_account_officer.pdf",
+      adv: "/pdf/Archived_jobs_advertisement/robot.pdf",
     },
   },
  
@@ -591,7 +584,7 @@ const archivedJobs: ArchivedJob[] = [
     status: "Closed",
     lastDate: "24th December 2021",
     document: {
-      adv: "/pdf/Archived_jobs_advertisement/Ad_senior_account_officer.pdf",
+      adv: "/pdf/Archived_jobs_advertisement/Adv_Digi_Marketing_Officer.pdf",
     },
   },
     {
@@ -600,7 +593,7 @@ const archivedJobs: ArchivedJob[] = [
     status: "Closed",
     lastDate: "31 July 2023",
     document: {
-      adv: "/pdf/Archived_jobs_advertisement/Ad_senior_account_officer.pdf",
+      adv: "/pdf/Archived_jobs_advertisement/intern_live_mngment.pdf",
     },
   },
   {
@@ -609,7 +602,7 @@ const archivedJobs: ArchivedJob[] = [
     status: "Closed",
     lastDate: "20 April 2023",
     document: {
-      adv: "/pdf/Archived_jobs_advertisement/Ad_senior_account_officer.pdf",
+      adv: "/pdf/Archived_jobs_advertisement/AR_VR_intern.pdf",
     },
   },
   {
@@ -618,18 +611,18 @@ const archivedJobs: ArchivedJob[] = [
     status: "Closed",
     lastDate: "25 January 2023",
     document: {
-      adv: "/pdf/Archived_jobs_advertisement/Ad_senior_account_officer.pdf",
+      adv: "/pdf/Archived_jobs_advertisement/SME_Intern.pdf",
     },
   },
-  {
-    ref: "•",
-    vacancy: "Openings For Tech Interns",
-    status: "Closed",
-    lastDate: "15 December 2022",
-    document: {
-      adv: "/pdf/Archived_jobs_advertisement/Ad_senior_account_officer.pdf",
-    },
-  },
+  // {
+  //   ref: "•",
+  //   vacancy: "Openings For Tech Interns",
+  //   status: "Closed",
+  //   lastDate: "15 December 2022",
+  //   document: {
+  //     adv: "/pdf/Archived_jobs_advertisement/Ad_senior_account_officer.pdf",
+  //   },
+  // },
 ];
 
 

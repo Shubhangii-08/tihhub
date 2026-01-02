@@ -56,7 +56,8 @@ export default function Navbar() {
               alt="Logo"
               width={160}
               height={160}
-              className="w-20 sm:w-24 xl1500:w-28"
+              className="w-20 sm:w-24 xl1500:w-28 h-auto"
+              priority
             />
           </Link>
           <Link href="https://dst.gov.in/" target="_blank">
@@ -65,7 +66,8 @@ export default function Navbar() {
               alt="Partner Logo"
               width={560}
               height={560}
-              className="hidden lg:block w-72 lg:w-96"
+              className="hidden lg:block w-72 lg:w-96 h-auto"
+              priority
             />
           </Link>
         </div>

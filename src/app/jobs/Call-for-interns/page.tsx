@@ -12,7 +12,7 @@ type Job = {
 };
 
 const jobs: Job[] = [
-  // 1) AR-VR Interns — rolling call (from screenshot/live page)
+  // 1) AR-VR Interns — rolling call
   {
     ref: "1",
     role: "Rolling Advertisement for AR-VR Interns",
@@ -20,7 +20,8 @@ const jobs: Job[] = [
     lastDate: "Applications will be accepted throughout the year",
     document: {
       // Replace with your hosted PDF if different
-      adv: "/images/pdf/Tech_Intern_new_Rolling.pdf",
+      adv: "/pdf/Archived_jobs_advertisement/AR_VR_intern.pdf",
+
       // Replace with your actual application form URL if different
       apply: "https://tinyurl.com/ihubdrishtiinternarvr",
     },

@@ -7,7 +7,7 @@ import { useEffect } from 'react';
 import { useGLTF } from '@react-three/drei';
 import Navbar from '@/components/navbar';
 import VisionMision from '@/components/vision-mision';
-// import PartnerSection from '@/components/PartnerSection';
+
 
 // Kick off GLB + Draco preloads as soon as the page module runs.
 function useEarlyPreload() {

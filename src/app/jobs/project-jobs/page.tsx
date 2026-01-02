@@ -19,12 +19,12 @@ const jobs: Job[] = [
     ref: "•",
     vacancy: "Application for the post of Principal Project Associate",
     project: "Computer Vision for Plant Phenomics and Smart Agriculture",
-    status: "Open",
+    status: "Closed",
     lastDate: "21 February 2025",
     document: {
       adv: "/pdf/jobs_advertisement/Principal_Project_Associate.pdf",
-      apply:
-        "https://forms.ihub-drishti.ai/ihubdrishtifoundation/form/ProjectRecruitmentProjectScientistD/formperma/DVtNMxQLQ41AUlBVwLZ_oaG3LvRNw_r-PhsqXLU93-0",
+      // apply:
+      //   "https://forms.ihub-drishti.ai/ihubdrishtifoundation/form/ProjectRecruitmentProjectScientistD/formperma/DVtNMxQLQ41AUlBVwLZ_oaG3LvRNw_r-PhsqXLU93-0",
     },
   },
   {
@@ -32,12 +32,12 @@ const jobs: Job[] = [
     vacancy: "Application for the post of Project Associate",
     project:
       "Haptics based Medical Simulator for Abdomen Palpation and Pulse Behavior",
-    status: "Open",
+    status: "Closed",
     lastDate: "25 February 2025",
     document: {
       adv: "/pdf/jobs_advertisement/Haptics_Project.pdf",
-      apply:
-        "https://forms.ihub-drishti.ai/ihubdrishtifoundation/form/ProjectRecruitmentProjectAssociateIhapticsBased/formperma/iO60GiL6Z0tZQmpWReJ8ZnOw573dp_RU9aW4GnqMyuY",
+      // apply:
+      //   "https://forms.ihub-drishti.ai/ihubdrishtifoundation/form/ProjectRecruitmentProjectAssociateIhapticsBased/formperma/iO60GiL6Z0tZQmpWReJ8ZnOw573dp_RU9aW4GnqMyuY",
     },
   },
   {
@@ -45,24 +45,24 @@ const jobs: Job[] = [
     vacancy: "Application for the post of Project Associate",
     project:
       "Non-invasive Diagnosis of Coronary Artery Disease using miRNA and Coronary Imaging",
-    status: "Open",
+    status: "Closed",
     lastDate: "Applications will be accepted until the position is filled",
     document: {
       adv: "/pdf/jobs_advertisement/Non_Invasive.pdf",
-      apply:
-        "https://forms.ihub-drishti.ai/ihubdrishtifoundation/form/ProjectRecruitmentProjectAssociate1/formperma/F9c3v7K7qIz5tSqK-f5WLWC9yw8TqgKiKgKpyWuBYlY",
+      // apply:
+      //   "https://forms.ihub-drishti.ai/ihubdrishtifoundation/form/ProjectRecruitmentProjectAssociate1/formperma/F9c3v7K7qIz5tSqK-f5WLWC9yw8TqgKiKgKpyWuBYlY",
     },
   },
   {
     ref: "•",
     vacancy: "Application for the post of Project Scientist I/II/III",
     project: "HuB for Radiogenomics Research and Service",
-    status: "Open",
+    status: "Closed",
     lastDate: "Applications will be accepted until the position is filled",
     document: {
       adv: "/pdf/jobs_advertisement/Radiogenomics_Research.pdf",
-      apply:
-        "https://forms.ihub-drishti.ai/ihubdrishtifoundation/form/ProjectRecruitmentProjectScientistIIIIII/formperma/lTRKKBoYPAtxgAu6qPKrkUo_1c_V9ZfT2bhpa_mAdUM",
+      // apply:
+      //   "https://forms.ihub-drishti.ai/ihubdrishtifoundation/form/ProjectRecruitmentProjectScientistIIIIII/formperma/lTRKKBoYPAtxgAu6qPKrkUo_1c_V9ZfT2bhpa_mAdUM",
     },
   },
   {
@@ -70,12 +70,12 @@ const jobs: Job[] = [
     vacancy:
       "Application for the post of Project Engineer (Software Developer) / Project Associate",
     project: "HuB for Radiogenomics Research and Service",
-    status: "Open",
+    status: "Closed",
     lastDate: "Applications will be accepted until the position is filled",
     document: {
       adv: "/pdf/jobs_advertisement/HUB_ProjectEngineer.pdf",
-      apply:
-        "https://forms.ihub-drishti.ai/ihubdrishtifoundation/form/ProjectRecruitmentProjectEngineerSoftwareDeveloper/formperma/iZk1i6U5Seb9O4hxFCsxyMihZEoKYOyYeTlKmYnSUdc",
+      // apply:
+      //   "https://forms.ihub-drishti.ai/ihubdrishtifoundation/form/ProjectRecruitmentProjectEngineerSoftwareDeveloper/formperma/iZk1i6U5Seb9O4hxFCsxyMihZEoKYOyYeTlKmYnSUdc",
     },
   },
   {
@@ -83,12 +83,12 @@ const jobs: Job[] = [
     vacancy: "Application for the post of Junior Research Fellow",
     project:
       "Real-Time 3D Scene Reconstruction and Localization of Autonomous Ground Vehicles in Unknown Environment",
-    status: "Open",
+    status: "Closed",
     lastDate: "Applications will be accepted until the position is filled",
     document: {
       adv: "/pdf/jobs_advertisement/JRF_3d_scene_reconstruction.pdf",
-      apply:
-        "https://tinyurl.com/ihubdrishtiProjectrec6",
+      // apply:
+      //   "https://tinyurl.com/ihubdrishtiProjectrec6",
     },
   },
   {
@@ -96,12 +96,12 @@ const jobs: Job[] = [
     vacancy: "Application for the post of Research Associate",
     project:
       "Non-invasive Diagnosis of Coronary Artery Disease using miRNA and Coronary Imaging",
-    status: "Open",
+    status: "Closed",
     lastDate: "Applications will be accepted until the position is filled",
     document: {
       adv: "/pdf/jobs_advertisement/Research_Associate_non_invasive.pdf",
-      apply:
-        "https://forms.ihub-drishti.ai/ihubdrishtifoundation/form/ProjectRecruitmentResearchAssociate/formperma/GThuj5IwqJ7BrUq7sVwQMMGlAEjNeDUmsSkskphCcrg",
+    //   apply:
+    //     "https://forms.ihub-drishti.ai/ihubdrishtifoundation/form/ProjectRecruitmentResearchAssociate/formperma/GThuj5IwqJ7BrUq7sVwQMMGlAEjNeDUmsSkskphCcrg",
     },
   },
 ];
