@@ -18,7 +18,11 @@ export function Model({
   scale = 1,
   position = [0, 0, 0],
 }: ModelProps) {
+<<<<<<< HEAD
   const { scene } = useGLTF(src, '/draco/') as { scene?: Object3D };
+=======
+  const { scene } = useGLTF(src) as { scene?: Object3D };
+>>>>>>> 99c17ba0297be4388960277e7533e85d7ca8f4ce
   const clone = useMemo(() => (scene ? SkeletonUtils.clone(scene) : null), [scene]);
 
   if (!clone) {

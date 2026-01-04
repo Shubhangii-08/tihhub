@@ -15,7 +15,11 @@ const teamData: TeamMember[] = [
   {
     name: "Prof. Gaurav Bhatnagar",
     role: "Project Director",
+<<<<<<< HEAD
     image: "/image/team/gaurav.webp",
+=======
+    image: "/image/team/gaurav_b (2) (1).jpg",
+>>>>>>> 99c17ba0297be4388960277e7533e85d7ca8f4ce
     linkedin: "#",
   },
   {
@@ -93,6 +97,7 @@ const TeamMemberCard = ({ member }: { member: TeamMember }) => {
         <div className="mx-auto mb-6 w-32 h-32 rounded-full bg-gray-100 overflow-hidden ring-4 ring-[#021954]/20 relative flex items-center justify-center group">
           {member.image ? (
             <>
+<<<<<<< HEAD
               <Image
                 src={member.image}
                 alt={member.name}
@@ -100,6 +105,15 @@ const TeamMemberCard = ({ member }: { member: TeamMember }) => {
                 className="object-cover"
                 sizes="(max-width: 768px) 100vw, 33vw"
               />
+=======
+            <Image
+              src={member.image}
+              alt={member.name}
+              fill
+              className="object-cover"
+              sizes="(max-width: 768px) 100vw, 33vw"
+            />
+>>>>>>> 99c17ba0297be4388960277e7533e85d7ca8f4ce
               {member.linkedin && (
                 <a
                   href={member.linkedin}
@@ -109,8 +123,13 @@ const TeamMemberCard = ({ member }: { member: TeamMember }) => {
                 >
                   {/* LinkedIn SVG */}
                   <svg width="40" height="40" viewBox="0 0 40 40" fill="currentColor" className="text-white">
+<<<<<<< HEAD
                     <rect width="40" height="40" rx="8" fill="#0A66C2" />
                     <path d="M12.5 16.667h3.333v10H12.5v-10zm1.667-1.667c-1.104 0-2-.896-2-2s.896-2 2-2c1.104 0 2 .896 2 2s-.896 2-2 2zm4.166 1.667h3.2v1.367h.046c.445-.84 1.534-1.725 3.158-1.725 3.378 0 4.004 2.225 4.004 5.12v5.238h-3.333v-4.646c0-1.108-.02-2.535-1.545-2.535-1.547 0-1.783 1.21-1.783 2.457v4.724h-3.333v-10z" fill="white" />
+=======
+                    <rect width="40" height="40" rx="8" fill="#0A66C2"/>
+                    <path d="M12.5 16.667h3.333v10H12.5v-10zm1.667-1.667c-1.104 0-2-.896-2-2s.896-2 2-2c1.104 0 2 .896 2 2s-.896 2-2 2zm4.166 1.667h3.2v1.367h.046c.445-.84 1.534-1.725 3.158-1.725 3.378 0 4.004 2.225 4.004 5.12v5.238h-3.333v-4.646c0-1.108-.02-2.535-1.545-2.535-1.547 0-1.783 1.21-1.783 2.457v4.724h-3.333v-10z" fill="white"/>
+>>>>>>> 99c17ba0297be4388960277e7533e85d7ca8f4ce
                   </svg>
                 </a>
               )}
