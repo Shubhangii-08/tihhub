@@ -53,9 +53,9 @@ export default function Navbar() {
             <Image
               src="/image/ihub-Photoroom (1).png"
               alt="Logo"
-              width={160}
-              height={160}
-              className="w-20 sm:w-24 xl1500:w-28 h-auto"
+              width={192}
+              height={84}
+              className="w-20 sm:w-24 xl1500:w-28 h-auto object-contain"
               priority
             />
           </Link>
@@ -64,8 +64,8 @@ export default function Navbar() {
               src="/image/Frame 144 (2).png"
               alt="Partner Logo"
               width={560}
-              height={560}
-              className="hidden lg:block w-72 lg:w-96 h-auto"
+              height={47}
+              className="hidden lg:block w-72 lg:w-96 h-auto object-contain"
               priority
             />
           </Link>
